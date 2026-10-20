@@ -1,0 +1,14 @@
+# Compiled C executables
+*.exe
+*.out
+a.out
+
+# Object files (intermediate compilation files)
+*.o
+*.obj
+
+# Libraries and shared objects
+*.dll
+*.so
+*.lib
+*.a
